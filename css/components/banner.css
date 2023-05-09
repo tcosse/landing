@@ -1,0 +1,17 @@
+.banner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  height: 80vh;
+  color: black;
+}
+
+.container-banner {
+  color: white;
+  text-align: left;
+}
+
+.container-banner p {
+  opacity: 0.7;
+}
